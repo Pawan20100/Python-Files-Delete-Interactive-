@@ -5,6 +5,8 @@ import time
 import shutil
 from time import strftime
 
+print("Hello")
+
 base_path = '/home/prasoon/logs'
 target1  = '/home/prasoon/backups'
 
